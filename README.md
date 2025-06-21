@@ -44,7 +44,7 @@ This is a command-line based Address Book Application written in C. It allows us
 - Sort by Name / Phone / Email
 
 ### 6 File Persistence
-- Stores data in CSV file (`filee.csv`)
+- Stores data in CSV file (`Contacts.csv`)
 - Loads data on program start
 
 ---
